@@ -1,2 +1,2 @@
 # GC_Website
-My personal website
+My personal website made with Blogdown and hosted with Netlify.
