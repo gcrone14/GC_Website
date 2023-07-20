@@ -1,0 +1,1 @@
+//$(".dark a.navbar-brand img").attr("src", "/uploads/Long logo_White.png");
