@@ -18,15 +18,19 @@ sections:
     - name: R/Studio
       icon: r-project
       icon_pack: fab
+    - name: Shiny
+      icon: laptop-code
+      icon_pack: fas
+      link: https://shiny.posit.co/
     - name: SPSS
       icon: window-restore
       icon_pack: fas
-    - name: M*plus*
-      icon: magnifying-glass-chart
-      icon_pack: fas
-    - name: Python
-      icon: python
-      icon_pack: fab
+    # - name: M*plus*
+    #   icon: magnifying-glass-chart
+    #   icon_pack: fas
+    # - name: Python
+    #   icon: python
+    #   icon_pack: fab
     - name: Microsoft Office Suite
       icon: microsoft
       icon_pack: fab
