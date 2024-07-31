@@ -29,6 +29,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0009-0008-8120-1360
+- icon: book-open-reader
+  icon_pack: fas
+  link: https://osf.io/h3adt/ 
 - icon: cv
   icon_pack: ai
   link: https://docs.google.com/document/d/1fx8rEAOY2K_OYl4jvHRGWxKnnjuzYr6v/edit?usp=sharing&ouid=115573432370763062304&rtpof=true&sd=true
