@@ -21,7 +21,6 @@ sections:
     - name: Shiny
       icon: laptop-code
       icon_pack: fas
-      link: https://shiny.posit.co/
     - name: SPSS
       icon: window-restore
       icon_pack: fas

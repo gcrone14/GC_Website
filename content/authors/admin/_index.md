@@ -2,7 +2,7 @@
 bio:
 education:
   courses:
-  - course: MA in Quantiative Methods
+  - course: MA in Quantitative Methods
     institution: York University
     year: 2023-Present
   - course: BSc, Specialized Honours, Psychology
