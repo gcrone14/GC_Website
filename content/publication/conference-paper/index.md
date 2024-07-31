@@ -8,7 +8,7 @@ authors:
 date: "2023-05-01"
 featured: true
 publication_types:
-- "1"
+- "7"
 
 summary: The purpose of this thesis was to investigate trends in *p*-value reporting across a diverse selection of notable psychology journals, spanning every 5th year from several decades to 2020.
 tags: []

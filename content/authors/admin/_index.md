@@ -14,7 +14,9 @@ highlight_name: true
 interests:
 - Statistics
 - R/Studio
-- Structural Equation Modeling
+- Contemporary Statistical Issues in Psychology
+- Statistical Pedagogy & Statistical Engagement
+- Open Science
 last_name: Crone
 organizations:
 - name: York University

@@ -18,10 +18,13 @@ sections:
     - name: R/Studio
       icon: r-project
       icon_pack: fab
-    - name: Shiny
+    - name: R Shiny
       icon: laptop-code
+      icon_pack: fas  
+    - name: Data Cleaning
+      icon: broom
       icon_pack: fas
-    - name: SPSS
+    - name: SPSS & jamovi
       icon: window-restore
       icon_pack: fas
     # - name: M*plus*
@@ -77,8 +80,7 @@ sections:
 - block: contact
   id: contact
   content:
-    text: My primary point of contact is email. I also have an office at York University I sometimes use for in-person office hours, but I mostly do office hours via zoom (please contact me for the password).
-    appointment_url: https://calendly.com/gcrone14/office-hours
+    text: My primary point of contact is email. I have an office at York University I sometimes use for in-person office hours, but I mostly do office hours via zoom. (Please contact me for the password.)
     name: Meetings via zoom are by appointment only
     contact_links:
     - icon: envelope
