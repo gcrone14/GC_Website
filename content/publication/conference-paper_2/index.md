@@ -18,5 +18,5 @@ url_slides: https://www.canva.com/design/DAF4GHXY2I0/FitFLmLaanz6P9jrM97HzA/edit
 
 
 # May include PDF of manuscript, if put up on York's site (for Copywright concerns)
-url_pdf: 
+url_pdf: https://doi.org/10.1177/09593543241311861
 ---

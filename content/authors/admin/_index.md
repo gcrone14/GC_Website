@@ -39,4 +39,4 @@ superuser: true
 title: Gabriel Crone
 ---
 
-I'm an MA student at York University's Quantitative Methods program in the Psychology Department. My research primarily focuses on contemporary (and historical) statistical issues within psychology, such as *p*-hacking, statistical misreporting, and questionable research practices. I am also interested in the teaching of statistics, researchers' software preferences and attitudes, and open-scientific practices. Outside of my research, I love coding in R, learning about new statistical methods, and developing new skills.
+I'm a PhD student at York University's Quantitative Methods program in the Psychology Department. My research primarily focuses on contemporary (and historical) statistical issues within psychology, such as *p*-hacking, statistical misreporting, and questionable research practices. I am also interested in the teaching of statistics, researchers' software preferences and attitudes, and open-scientific practices. Outside of my research, I love coding in R, learning about new statistical methods, and developing new skills.
